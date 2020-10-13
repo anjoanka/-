@@ -1,0 +1,19 @@
+h2{
+    color: royalblue;
+    font-style: oblique;
+    font-size:40px;
+}
+div{
+    width: 195px;
+    height: 55px;
+    background-color: skyblue;
+    border-radius: 20px;
+}
+p{
+    color: rgb(68, 47, 255);
+    font-size: 20px;
+   font-style: inherit;
+}
+a{
+    color: royalblue;
+}
