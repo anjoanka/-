@@ -1,17 +1,18 @@
-div{
-    width:250px;
-    height: 150px;
-    background-color: aquamarine;
-    border: 10px solid palevioletred;
-   padding-left: 50px;
-   padding-top: 50px;
-   padding-right: 50px;
-   
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
-h1{
-    color: navy;
+
+.navigation{
+    background: lightcoral;
+    border: 10px solid royalblue;
+    width: 200px;
+    height: 100px;
 }
-a{
-    color: palevioletred;
-    font-size: 50px;
+.footer{
+    background: rgb(186, 230, 166);
+    border: 10px solid rgb(103, 70, 122);
+    width: 200px;
+    height: 100px;
 }
